@@ -1,4 +1,4 @@
 {
-   "mongoURI":"mongodb+srv://123akshshah:akshshah@cluster0.d2x2l.mongodb.net/mern_shopping?retryWrites=true&w=majority",
+   "mongoURI":"URI String",
    "jwtSecret": "123456-qwerty-ytrewq-654321"
 }
